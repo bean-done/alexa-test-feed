@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Test feed</title>
+  <link>https://bean-done.github.io/alexa-test-feed</link>
+  <description>Some Test Bits From Andy</description>
+  <item>
+    <title>ANDMAN</title>
+    <link>https://bean-done.github.io/alexa-test-feed/items/test-bit-0000001.txt</link>
+    <description>Andman Tests A Test</description>
+  </item>
+  <item>
+    <title>BEEZERTON</title>
+    <link>https://bean-done.github.io/alexa-test-feed/items/test-bit-0000002.txt</link>
+    <description>Beezerton Takes On Tests</description>
+  </item>
+</channel>
+
+</rss>
