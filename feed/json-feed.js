@@ -3,6 +3,6 @@
   "updateDate": "2018-10-20T22:34:51.0Z",
   "titleText": "Testing tested bits",
   "mainText": "",
-  "streamUrl": "https://developer.amazon.com/public/community/blog/myaudiofile.mp3",
-  "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  "streamUrl": "https://bean-done.github.io/alexa-test-feed/test-000000001.m4a",
+  "redirectionUrl": "https://bean-done.github.io/alexa-test-feed"
 }
